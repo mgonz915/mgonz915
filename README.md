@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mgonz915
+- 👀 I’m interested in Software development and Human-Computer Interface / UX design
+- 🌱 I’m currently learning to plan create and develop my own game ideas and other utilities for people to use
+- 💞️ I’m looking to collaborate on any project regarding a user's interaction with a system, physics-based mechanics, and good solid gameplay
+- 📫 Please feel free to contact me @ mgonz915@gmail.com or @ https://www.linkedin.com/in/michael-gonzalez-91511309/ 
